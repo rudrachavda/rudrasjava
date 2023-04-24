@@ -5,7 +5,7 @@ package Programs;
 */
 import java.util.Scanner;
 
-public class GuessChecker.java {
+public class GuessChecker {
   public static void main(String[] args) {
     /* Add any variables you will need throughout the program here. */
 
