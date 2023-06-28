@@ -1,5 +1,3 @@
-package Programs;
-
 /*
 * Activity 1.3.2
 */
